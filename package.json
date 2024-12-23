@@ -1,6 +1,6 @@
 {
-  "name": "@the-convocation/twitter-scraper",
-  "description": "A port of n0madic/twitter-scraper to Node.js.",
+  "name": "@CicadaNCR/twitter-scraper",
+  "description": "A port of n0madic/twitter-scraper to Node.js. Ported from @the-convocation. Custom funcs.",
   "keywords": [
     "x",
     "twitter",
